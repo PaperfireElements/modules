@@ -1,0 +1,14 @@
+{
+  "name": "@rafamaciel/bulma",
+  "version": "1.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "https://github.com/rafamaciel/modules",
+  "homepage": "https://github.com/rafamaciel/modules/tree/@rafamaciel/bulma/modules/bulma",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "bulma": "^0.4.2"
+  }
+}
